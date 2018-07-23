@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="419" started-at="2018-07-23T10:26:53Z" finished-at="2018-07-23T10:26:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="419" started-at="2018-07-23T10:26:53Z" finished-at="2018-07-23T10:26:54Z">
+      <class name="com.qait.automation.DataProviderTesting.DataProviderWithExcel_001">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Registration_data(java.lang.String, java.lang.String)[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="Registration_data" duration-ms="5" started-at="2018-07-23T15:56:54Z" data-provider="Authentication" finished-at="2018-07-23T15:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[one]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_data -->
+        <test-method status="PASS" signature="Registration_data(java.lang.String, java.lang.String)[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="Registration_data" duration-ms="2" started-at="2018-07-23T15:56:54Z" data-provider="Authentication" finished-at="2018-07-23T15:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[krishna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[two]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_data -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Registration_data(java.lang.String, java.lang.String)[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="Registration_data" duration-ms="1" started-at="2018-07-23T15:56:54Z" data-provider="Authentication" finished-at="2018-07-23T15:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[three]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_data -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Registration_data(java.lang.String, java.lang.String)[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="Registration_data" duration-ms="1" started-at="2018-07-23T15:56:54Z" data-provider="Authentication" finished-at="2018-07-23T15:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[four]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_data -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Registration_data(java.lang.String, java.lang.String)[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="Registration_data" duration-ms="1" started-at="2018-07-23T15:56:54Z" data-provider="Authentication" finished-at="2018-07-23T15:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[neeraj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[five]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_data -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Registration_data(java.lang.String, java.lang.String)[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="Registration_data" duration-ms="2" started-at="2018-07-23T15:56:54Z" data-provider="Authentication" finished-at="2018-07-23T15:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ankita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[six]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_data -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Registration_data(java.lang.String, java.lang.String)[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="Registration_data" duration-ms="2" started-at="2018-07-23T15:56:54Z" data-provider="Authentication" finished-at="2018-07-23T15:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aditya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[seven]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_data -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qait.automation.DataProviderTesting.DataProviderWithExcel_001@14acaea5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-23T15:56:54Z" finished-at="2018-07-23T15:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.qait.automation.DataProviderTesting.DataProviderWithExcel_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
